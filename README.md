@@ -13,7 +13,7 @@
 - 👨‍💻‍ I'm currently working at **Alibaba Beijing**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Dawn Group**
-- 💅 Designed UI: [AntD](https://ant.design/docs/react/introduce-cn, [Fusion](https://fusion.design/), [Mui](https://mui.com/zh/), etc…
+- 💅 Designed UI: [AntD](https://ant.design/docs/react/introduce-cn), [Fusion](https://fusion.design/), [Mui](https://mui.com/zh/), etc…
 - 👽 Model Tools **Mobx**, **Dva**, **Mota**, **Hooks**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **javascript**, **web3**, **btc**, **typescript**, **nodejs**, **react**
